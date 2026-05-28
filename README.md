@@ -1,6 +1,6 @@
 # CyberSecurity Awareness Bot — Part 2
 
-A WPF desktop chatbot application built in C# that educates users about cybersecurity threats through a WhatsApp-style chat interface.
+A WPF desktop chatbot application built in C# that educates users about cybersecurity threats through a chat interface. With a mordern text style and Sentiment detection to make it feel a little more comfortable.
 
 ---
 
