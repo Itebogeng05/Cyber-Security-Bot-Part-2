@@ -68,7 +68,7 @@ Type any of these to get a cybersecurity tip:
 CyberSecurityBot_Part2/
 ├── App.xaml                  — Application entry point
 ├── App.xaml.cs
-├── MainWindow.xaml           — WhatsApp-style UI layout (WPF)
+├── MainWindow.xaml           — Chat UI layout (WPF)
 ├── MainWindow.xaml.cs        — All chatbot logic
 ├── App.config
 └── CyberSecurityBot_Part2.csproj
