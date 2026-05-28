@@ -100,6 +100,8 @@ The voice greeting from Part 1 is automatically loaded if `greeting.wav` is foun
 To use it, copy `greeting.wav` from your Part 1 project into `bin\Debug\`.
 
 ---
+## Another additional thing
+I added a picture of myself next to the name of the chatbot
 
 ## Requirements
 
