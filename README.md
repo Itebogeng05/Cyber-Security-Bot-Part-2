@@ -7,7 +7,7 @@ A WPF desktop chatbot application built in C# that educates users about cybersec
 ## How to Run
 
 1. Open the solution in **Visual Studio 2019 or 2022**
-2. Press the run program button to launch it.
+2. Press the "run program" button to launch it.
 3. The chat window will open and the bot will greet you
 
 ---
@@ -24,7 +24,7 @@ A WPF desktop chatbot application built in C# that educates users about cybersec
 | **Conversation Flow** | Say "tell me more" or "give me another tip" to continue on the last topic |
 | **Error Handling** | Returns a helpful default message for unrecognised inputs |
 | **Voice Greeting** | Plays a greeting sound on startup if `greeting.wav` is found |
-| **Typing Indicator** | Bot shows "typing..." before responding to feel more natural |
+| **Online & Typing Indicator** | Bot shows "typing..." before responding and "Online" on top to feel more natural |
 
 ---
 
