@@ -7,7 +7,7 @@ A WPF desktop chatbot application built in C# that educates users about cybersec
 ## How to Run
 
 1. Open the solution in **Visual Studio 2019 or 2022**
-2. Press **F5** to build and run
+2. Press the run program button to launch it.
 3. The chat window will open and the bot will greet you
 
 ---
