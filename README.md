@@ -96,8 +96,7 @@ CyberSecurityBot_Part2/
 The voice greeting from Part 1 is automatically loaded if `greeting.wav` is found at either:
 - The same folder as the `.exe` ← recommended
 - `C:\Users\itebo\source\repos\CyberSecurityBot prt2\CyberSecurityBot prt2\greeting.wav`
-
-To use it, copy `greeting.wav` from your Part 1 project into `bin\Debug\`.
+-I used the same tips i used in part one
 
 ---
 ## Another additional thing
